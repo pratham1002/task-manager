@@ -1,0 +1,1 @@
+A task-manager app in node to familiarise with user authenciation and jwt.
