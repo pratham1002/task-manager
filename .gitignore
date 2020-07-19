@@ -5,3 +5,7 @@ images/
 avatars/
 
 node-course-images.zip
+package-lock.json
+
+.gitpod.yml
+.gitpod.Dockerfile
