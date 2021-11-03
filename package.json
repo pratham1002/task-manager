@@ -23,7 +23,7 @@
     "multer": "^1.4.2",
     "sharp": "^0.25.4",
     "supertest": "^4.0.2",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "jest": "^26.1.0",
